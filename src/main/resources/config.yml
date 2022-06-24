@@ -1,0 +1,199 @@
+test_server: false
+fullIron: true
+FullIronFeast:
+  '276':
+    durabilidade: 0
+    nome: '&aEspada de Diamante'
+    descricao: Espada do Feast
+    quantidade: 1
+    probabilidade: 10%
+  '282':
+    durabilidade: 0
+    nome: '&e&oSopa'
+    descricao: ''
+    quantidade: 8
+    probabilidade: 60%
+  '368':
+    durabilidade: 0
+    nome: '&aPerola do Fim'
+    descricao: Perola do feast
+    quantidade: 6
+    probabilidade: 50%
+  '261':
+    durabilidade: 0
+    nome: '&aArco'
+    descricao: Arco do feast
+    quantidade: 1
+    probabilidade: 50%
+  '262':
+    durabilidade: 0
+    nome: '&aFlechas'
+    descricao: Flechas do feast
+    quantidade: 10
+    probabilidade: 80%
+  '311':
+    durabilidade: 0
+    nome: '&aProtecao de Diamante'
+    descricao: Armadura do feast
+    quantidade: 1
+    probabilidade: 20%
+  '313':
+    durabilidade: 0
+    nome: '&aProtecao de Diamante'
+    descricao: Armadura do feast
+    quantidade: 1
+    probabilidade: 20%
+  '310':
+    durabilidade: 0
+    nome: '&aProtecao de Diamante'
+    descricao: Armadura do feast
+    quantidade: 1
+    probabilidade: 10%
+  '373':
+    durabilidade: 8201
+    nome: '&aPocao de Forca'
+    descricao: Pocao do Feast
+    quantidade: 1
+    probabilidade: 20%
+Feast:
+  '267':
+    durabilidade: 0
+    nome: '&aEspada de Iron'
+    descricao: Espada do Feast
+    quantidade: 1
+    probabilidade: 20%
+  '282':
+    durabilidade: 0
+    nome: '&e&oSopa'
+    descricao: ''
+    quantidade: 8
+    probabilidade: 60%
+  '368':
+    durabilidade: 0
+    nome: '&aPerola do Fim'
+    descricao: Perola do feast
+    quantidade: 6
+    probabilidade: 50%
+  '261':
+    durabilidade: 0
+    nome: '&aArco'
+    descricao: Arco do feast
+    quantidade: 1
+    probabilidade: 50%
+  '262':
+    durabilidade: 0
+    nome: '&aFlechas'
+    descricao: Flechas do feast
+    quantidade: 10
+    probabilidade: 80%
+  '373':
+    durabilidade: 8201
+    nome: '&aPocao de Forca'
+    descricao: Pocao do Feast
+    quantidade: 1
+    probabilidade: 20%
+SimulatorFeast:
+  '272':
+    durabilidade: 0
+    nome: '&aEspada de Pedra'
+    descricao: Espada do feast
+    quantidade: 1
+    probabilidade: 30%
+  '309':
+    durabilidade: 0
+    nome: '&aProtecao de Ferro'
+    descricao: Protecao do feast
+    quantidade: 1
+    probabilidade: 10%
+  '299':
+    durabilidade: 0
+    nome: '&aProtecao de Couro'
+    descricao: Protecao do feast
+    quantidade: 1
+    probabilidade: 30%
+  '301':
+    durabilidade: 0
+    nome: '&aProtecao de Couro'
+    descricao: Protecao do feast
+    quantidade: 1
+    probabilidade: 30%
+  '282':
+    durabilidade: 0
+    nome: '&aSopa'
+    descricao: Sopa do feast
+    quantidade: 6
+    probabilidade: 60%
+  '322':
+    durabilidade: 0
+    nome: '&aMaca dourada'
+    descricao: Maca do feast
+    quantidade: 3
+    probabilidade: 20%
+  '304':
+    durabilidade: 0
+    nome: '&aProtecao de Chain'
+    descricao: Protecao do feast
+    quantidade: 1
+    probabilidade: 10%
+  '261':
+    durabilidade: 0
+    nome: '&aArco'
+    descricao: Arco do feast
+    quantidade: 1
+    probabilidade: 20%
+  '262':
+    durabilidade: 0
+    nome: '&aFlechas'
+    descricao: Flechas do feast
+    quantidade: 6
+    probabilidade: 60%
+  '373':
+    durabilidade: 16424
+    nome: '&aPocao de Fraqueza'
+    descricao: Pocao do Feast
+    quantidade: 1
+    probabilidade: 30%
+  '368':
+    durabilidade: 0
+    nome: '&aPerola do Fim'
+    descricao: Perola do feast
+    quantidade: 4
+    probabilidade: 50%
+Warps:
+  Feast:
+    pos1:
+      x: -57.3983530566513
+      y: 23.0
+      z: 58.43196100452755
+      pitch: 71.823006
+      yaw: -317.1748
+      world: world
+    pos2:
+      x: -61.63255120807927
+      y: 23.0
+      z: 62.48059629847215
+      pitch: -0.32701677
+      yaw: -130.87459
+      world: world
+Gladiator:
+  spawn:
+    x: 2.1816190440660064
+    y: 4.0
+    z: 24.50167785878964
+    pitch: 3.1500003
+    yaw: -4.4999967
+  pos1:
+    x: 551.5444372757192
+    y: 33.0
+    z: 526.7611392607521
+    pitch: 6.750002
+    yaw: -0.8999939
+  pos2:
+    x: 551.6366237119114
+    y: 33.0
+    z: 562.4819617531947
+    pitch: 4.9500113
+    yaw: -179.8504
+Spawn:
+  height: 15
+  radius: 15
